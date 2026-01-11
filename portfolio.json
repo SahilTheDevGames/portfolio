@@ -1,0 +1,50 @@
+[
+  {
+    "id": "modal-01",
+    "image": "images/portfolio/CosmoSlots.jpg",
+    "srcset": "images/portfolio/CosmoSlots.jpg 1x, images/portfolio/CosmoSlots.jpg 2x",
+    "alt": "CosmoSlots",
+    "category": "Android, iOS, WebGL",
+    "title": "CosmoSlots."
+  },
+  {
+    "id": "modal-02",
+    "image": "images/portfolio/lamp.jpg",
+    "srcset": "images/portfolio/lamp.jpg 1x, images/portfolio/lamp@2x.jpg 2x",
+    "alt": "Lamp",
+    "category": "Product Design",
+    "title": "The White Lamp."
+  },
+  {
+    "id": "modal-03",
+    "image": "images/portfolio/rucksack.jpg",
+    "srcset": "images/portfolio/rucksack.jpg 1x, images/portfolio/rucksack@2x.jpg 2x",
+    "alt": "Rucksack",
+    "category": "Branding",
+    "title": "Rucksuck."
+  },
+  {
+    "id": "modal-04",
+    "image": "images/portfolio/skaterboy.jpg",
+    "srcset": "images/portfolio/skaterboy.jpg 1x, images/portfolio/skaterboy@2x.jpg 2x",
+    "alt": "Skaterboy",
+    "category": "Website",
+    "title": "Since Day One."
+  },
+  {
+    "id": "modal-05",
+    "image": "images/portfolio/sanddunes.jpg",
+    "srcset": "images/portfolio/sanddunes.jpg 1x, images/portfolio/sanddunes@2x.jpg 2x",
+    "alt": "Sand Dunes",
+    "category": "Illustration",
+    "title": "Sand Dunes."
+  },
+  {
+    "id": "modal-06",
+    "image": "images/portfolio/minimalismo.jpg",
+    "srcset": "images/portfolio/minimalismo.jpg 1x, images/portfolio/minimalismo@2x.jpg 2x",
+    "alt": "Minimalismo",
+    "category": "Branding",
+    "title": "Minimalismo."
+  }
+]
